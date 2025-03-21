@@ -1,4 +1,9 @@
-# __2025-03-19__
+# __2025-03-21__
+
+- ### Bugfixes
+    - Guild raid contributions with encounterType *Boss* are sometimes recorded with the upcoming tier/set instead of the current one. The bug is fixed now but affected records will not be adjusted and removed at a later point.
+
+# __2025-03-17__
 
 - ### Features
 
